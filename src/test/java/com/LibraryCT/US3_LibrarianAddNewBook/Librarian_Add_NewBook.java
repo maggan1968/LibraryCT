@@ -1,4 +1,4 @@
-package com.LibraryCT.LibrarianAddNewBook;
+package com.LibraryCT.US3_LibrarianAddNewBook;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

@@ -1,4 +1,4 @@
-package com.LibraryCT.Librarian_LogOut;
+package com.LibraryCT.US4_LibrarianLogOut;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

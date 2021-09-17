@@ -1,4 +1,4 @@
-package com.LibraryCT.LoginFunction;
+package com.LibraryCT.US1_LoginFunction;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
